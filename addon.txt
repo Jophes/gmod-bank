@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Cheese Bank"
+	"version"			"0.1"
+	"up_date"			""
+	"author_name"			"Cheese"
+	"author_url"			""
+	"info"				""
+	"override"			"0"
+}
